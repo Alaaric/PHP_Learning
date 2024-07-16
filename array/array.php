@@ -9,5 +9,5 @@ $movies
 );
 
 foreach ($movies as $movie=> $date) {
-    echo "$date - $movie ";
+    echo "$date - $movie \n";
 }
